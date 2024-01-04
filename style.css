@@ -548,6 +548,11 @@ display:none;
   .contedorPortfolio{
       float: left;
   }
+  #carouselExampleInterval img{
+    margin-top:50px;
+    height: 250px;
+    width: auto;
+  }
   }
 @media (max-width:280px){
     #section1{
